@@ -1,22 +1,21 @@
 <!-- Hi there 👋 -->
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Rupani Kumari 👋</h1>
 <p align="center">🚀 Final Year Engineering Student | 💻 Aspiring Software Engineer | 🔐 Tech Enthusiast</p>
 
 ---
 
 ### 💡 About Me
-- 🎓 Final-year Engineering student passionate about problem-solving and tech innovation  
-- 🧠 Currently building **Encryptix** — a suite of mini-games & utilities in C++  
+- 🎓 Final-year Engineering student passionate about problem-solving and tech innovation   
 - 🏥 Working on **MediFlow** — a healthcare app MVP for a hackathon  
-- 🔍 Preparing for TCS NQT & Engineering Analyst roles  
+- 🔍 Preparing  Engineering Analyst roles  
 - 💬 Always curious about systems, AI, and impactful software  
 - 🌱 Currently sharpening my DSA, OOP, and Web Dev skills  
 
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** C++, Python, JavaScript, HTML/CSS  
+- **Languages:** C++, JavaScript, HTML/CSS  
 - **Tools:** Git, GitHub, VS Code, Figma  
 - **Frameworks:** Bootstrap, React (learning)  
 - **Other:** OOP, DSA, REST APIs, UI/UX fundamentals  
@@ -34,7 +33,7 @@
 
 ### 🔗 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)  
-📫 Email: your.email@example.com  
+📫 Email: rupaniverma510@gmail.com
 
 ---
 
