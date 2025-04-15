@@ -32,7 +32,6 @@
 ---
 
 ### 🔗 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)  
 📫 Email: rupaniverma510@gmail.com
 
 ---
