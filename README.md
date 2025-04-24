@@ -16,9 +16,9 @@
 
 ### 🛠️ Tech Stack
 - **Languages:** C++, JavaScript, HTML/CSS  
-- **Tools:** Git, GitHub, VS Code, Figma  
-- **Frameworks:** Bootstrap, React (learning)  
-- **Other:** OOP, DSA, REST APIs, UI/UX fundamentals  
+- **Tools:** Git, GitHub, VS Code, Figma 
+- **Frameworks:** Springboot  
+- **Other:** OOP, DSA,DBMS, UI/UX fundamentals  
 
 ---
 
