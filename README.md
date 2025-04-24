@@ -6,9 +6,8 @@
 ---
 
 ### 💡 About Me
-- 🎓 Final-year Engineering student passionate about problem-solving and tech innovation   
-- 🏥 Working on **MediFlow** — a healthcare app MVP for a hackathon  
-- 🔍 Preparing  Engineering Analyst roles  
+- 🎓 Final-year Engineering student passionate about problem-solving and tech innovation     
+- 🔍 Preparing for Software Engineer roles  
 - 💬 Always curious about systems, AI, and impactful software  
 - 🌱 Currently sharpening my DSA, OOP, and Web Dev skills  
 
